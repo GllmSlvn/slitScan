@@ -46,6 +46,7 @@ Horizontal Mode: The image is constructed column by column from left to right.
 
 ### 🖼 Screenshots
 Example screenshot of the slit-scan effect in vertical mode:
+![screen_00](https://github.com/user-attachments/assets/7f89ad5f-9f02-4815-9311-11fe3701e7b1)
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
